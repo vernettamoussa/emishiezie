@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiengiego.heelie.me/sitemap.xml
